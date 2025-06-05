@@ -39,7 +39,7 @@ Abaixo está uma prévia da calculadora em funcionamento:
 
 ## 🚀 Como Usar
 
-1. Abra o arquivo `index.html` no seu navegador.
+1. Abra o arquivo `imc.html` no seu navegador.
 2. Insira seu peso e altura.
 3. Clique no botão para calcular.
 4. Veja seu resultado com a classificação.
