@@ -33,7 +33,7 @@ calculadora-imc/
 
 Abaixo está uma prévia da calculadora em funcionamento:
 
-![Calculadora de IMC](images/imc-demo.png)
+![Calculadora de IMC](./imgs/imc-demo.png.png)
 
 ---
 
