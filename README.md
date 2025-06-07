@@ -1,12 +1,14 @@
+# 🧮 BMI Calculator
 
-# 🧮 Calculadora de IMC
+🇧🇷 [Read this content in Portuguese](./README-pt.md)  
+⚠️ Note: The variable names and code comments are currently in Portuguese, as this project was initially developed for local learning purposes. An English version will be implemented in a future update.
 
-Este é um projeto simples de uma **Calculadora de IMC** desenvolvida em **HTML** e **JavaScript**.  
-Ideal para iniciantes que desejam praticar conceitos como manipulação de DOM e cálculos matemáticos em JS.
+This is a simple **BMI Calculator** built with **HTML** and **JavaScript**.  
+Perfect for beginners who want to practice DOM manipulation and basic calculations.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
 
 ```
 calculadora-imc/
@@ -20,32 +22,39 @@ calculadora-imc/
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ Features
 
-- Entrada de peso e altura do usuário
-- Cálculo do IMC
-- Exibição da classificação de acordo com a OMS
-- Layout simples e direto
-
----
-
-## 🧪 Demonstração
-
-Abaixo está uma prévia da calculadora em funcionamento:
-
-![Calculadora de IMC](./imgs/imc-demo.png.png)
+- User input for weight and height
+- BMI calculation
+- Display of classification based on WHO standards
+- Simple and responsive layout
 
 ---
 
-## 🚀 Como Usar
+## 🧪 Demo
 
-1. Abra o arquivo `imc.html` no seu navegador.
-2. Insira seu peso e altura.
-3. Clique no botão para calcular.
-4. Veja seu resultado com a classificação.
+Below is a preview of the calculator in action:
+
+![BMI Calculator](./images/imc-demo.png)
 
 ---
 
-## 📄 Licença
+## 🚀 How to Use
 
-Este projeto está licenciado sob a Licença MIT.
+1. Open the `index.html` file in your browser.
+2. Enter your weight and height.
+3. Click the button to calculate.
+4. View your result with classification.
+
+---
+
+## 📝 Author
+
+Developed by **Lucas Bravo Soares** – [GitHub @bravoodev](https://github.com/bravoodev)  
+Feel free to contribute and suggest improvements!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
